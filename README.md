@@ -10,14 +10,14 @@ For map Leaflet is used and For line graph chart.js is used.
 
 **For Active case for WorldWide**
 
-![alt tag]()
+![alt tag](https://github.com/ritik3131/React-Covid19-Tracker/blob/main/public/worldwide.png)
 
 **For Recovered case of Bangladesh**
 
-![alt tag]()
+![alt tag](https://github.com/ritik3131/React-Covid19-Tracker/blob/main/public/bangladesh.png)
 
 **For Death case in Italy**
 
-![alt tag]()
+![alt tag](https://github.com/ritik3131/React-Covid19-Tracker/blob/main/public/italy.png)
 
 
